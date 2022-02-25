@@ -139,3 +139,4 @@ const TopicImg = styled.img`
 
 
 export default Technologies
+
