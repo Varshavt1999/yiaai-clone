@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
+body{
+  overflow-x: hidden;
+  width: 100%;
+  font-family: 'robotomedium';
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -149,7 +154,11 @@ ol,ul{
 
 }
 
-
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
 
 
 @font-face {

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="291.455" height="56.834" viewBox="0 0 291.455 56.834">
+  <g id="Group_37351" data-name="Group 37351" transform="translate(-27.001 4.794)">
+    <g id="Group_23006" data-name="Group 23006" transform="translate(0 0)">
+      <g id="Rectangle_4429" data-name="Rectangle 4429" transform="translate(27.001 -4.794)" fill="#0fa76f" stroke="#0fa76f" stroke-width="2">
+        <rect width="291.455" height="56.834" rx="6" stroke="none"/>
+        <rect x="1" y="1" width="289.455" height="54.834" rx="5" fill="none"/>
+      </g>
+      <text id="Start_Learning" data-name="Start Learning" transform="translate(173.001 28.205)" fill="#fff" font-size="17" font-family="Gordita-Medium, Gordita" font-weight="500"><tspan x="-72" y="0">Go to Dashboard</tspan></text>
+    </g>
+  </g>
+</svg>
